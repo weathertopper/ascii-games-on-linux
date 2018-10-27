@@ -17,7 +17,7 @@ I get so tired of figuring out how to run the Zork games on Linux, so I am simpl
 3) Run the given bash script to play Zork I, Zork II, or Zork III:
 
   ```bash
-  ./run_zork.sh i
+  ./start_zork.sh i
   ```
   
   ... where `i` is `1`, `2`, or `3`, depending on the desired game.
