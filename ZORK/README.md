@@ -8,7 +8,7 @@ Run the following:
 ./setup_zork.sh
 ```
 
-### Play
+## Play
 
 Run the given bash script to play Zork I, Zork II, or Zork III:
 
@@ -18,7 +18,7 @@ Run the given bash script to play Zork I, Zork II, or Zork III:
 
 ... where `i` is `1`, `2`, or `3`, depending on the desired game.
 
-**Sources**
+## Sources
 
 - [Instructions](https://www.eugenemdavis.com/playing-zork-linux-frotz.html) 
 - [Game Files](http://www.infocom-if.org/downloads/downloads.html)

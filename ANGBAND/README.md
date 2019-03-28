@@ -8,7 +8,7 @@ Run the following:
 ./setup_angband.sh
 ```
 
-### Play
+## Play
 
 Run the given bash script to play Angband:
 
@@ -16,7 +16,7 @@ Run the given bash script to play Angband:
 ./start_angband.sh
 ```
 
-**Sources**
+ ## Sources
 
 - [Instructions](http://rephial.org/help/) 
 - [Game Files](http://rephial.org/)
