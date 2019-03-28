@@ -1,26 +1,22 @@
-# Zork on Linux
+# Zork
 
-I get so tired of figuring out how to run the Zork games on Linux, so I am simplifying the simple process even further. 
+## Setup
 
-1) Download `frotz`:
-  
-  ```bash
-  sudo apt-get install frotz
-  ```
+Run the following:
 
-2) Clone this git repo:
-  
-  ```bash
-  git clone git@github.com:weathertopper/zork-on-linux.git
-  ```
+```bash
+./setup_zork.sh
+```
 
-3) Run the given bash script to play Zork I, Zork II, or Zork III:
+### Play
 
-  ```bash
-  ./start_zork.sh i
-  ```
-  
-  ... where `i` is `1`, `2`, or `3`, depending on the desired game.
+Run the given bash script to play Zork I, Zork II, or Zork III:
+
+```bash
+./start_zork.sh i
+```
+
+... where `i` is `1`, `2`, or `3`, depending on the desired game.
 
 **Sources**
 
