@@ -9,6 +9,13 @@ Good luck finding instructions! :)
 ```bash
 sudo apt install bsdgames
 ```
+
+## Help
+
+```bash
+cat /usr/share/games/bsdgames/hack
+```
+
 ## List Games
 
 ```bash
