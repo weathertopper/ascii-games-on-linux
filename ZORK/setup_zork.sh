@@ -1,3 +1,6 @@
 #bin/bash
-
-sudo apt-get install frotz
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    brew install frotz
+else
+    sudo apt-get install frotz
+fi

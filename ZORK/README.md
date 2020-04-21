@@ -8,6 +8,8 @@ Run the following:
 ./setup_zork.sh
 ```
 
+*Mac users must have `brew` installed*
+
 ## Play
 
 Run the given bash script to play Zork I, Zork II, or Zork III:
